@@ -1,3 +1,4 @@
+
 # Plaid Income Sample
 
 This is a fairly simple application using React on the frontend, NodeJS on the backend and a text file as our database which demonstrates how to make calls against the Plaid Income API.
